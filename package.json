@@ -8,17 +8,16 @@
     "db:push": "drizzle-kit push"
   },
   "dependencies": {
-    "better-sqlite3": "^11.8.1",
-    "discord.js": "14.17.3",
-    "drizzle-orm": "0.39.2",
+    "better-sqlite3": "^12.2.0",
+    "discord.js": "14.21.0",
+    "drizzle-orm": "0.44.2",
     "fast-glob": "3.3.3"
   },
   "devDependencies": {
-    "@in5net/eslint-config": "^0.15.0",
+    "@in5net/eslint-config": "^0.15.6",
     "@in5net/prettier-config": "^2.0.0",
-    "@types/bun": "1.2.2",
-    "drizzle-kit": "^0.30.4",
+    "@types/bun": "1.2.18",
     "eslint": "9.19.0",
-    "typescript": "5.7.3"
+    "typescript": "5.8.3"
   }
 }
